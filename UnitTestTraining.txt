@@ -1,0 +1,28 @@
+First session
+
+What are unit tests?
+How to come up with a test
+Naming
+AAA
+Assert.Equals
+Assert.Null
+Assert.Single
+Assert.Contains
+Assert.Throws
+Assert.True
+Assert.False
+Assert.Empty
+Facts
+Theories
+
+Second session
+
+DI/Mocking
+SetUp
+Verify
+It.Is<>
+It.IsAny<>
+Deep/Shallow comparision (debugging)
+What needs testing?
+How to exclude?
+Coverage
